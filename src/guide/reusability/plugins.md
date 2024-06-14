@@ -1,4 +1,4 @@
-# 插件 {#plugins}
+# 插件 {#plugins} xw
 
 ## 介绍 {#introduction}
 
@@ -107,7 +107,7 @@ export default {
   }
 }
 ```
-
+   
 现在，插件用户就可以在他们的组件中以 `i18n` 为 key 注入并访问插件的选项对象了。
 
 <div class="composition-api">
